@@ -11,6 +11,8 @@ function Example() {
                         <div className="card-header">React導入できたっしょ？</div>
 
                         <div className="card-body">ワイはサンプルコンポーネントちゅうことや</div>
+                        <div className="card-body">pages下に移動出来た？？</div>
+
                         <Button color="success" variant="contained">ワイがMaterial-UIのボタンやな？？</Button> 
                     </div>
                 </div>
