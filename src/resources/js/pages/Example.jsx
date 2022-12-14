@@ -1,5 +1,5 @@
 import React from 'react';
-import ReactDOM from 'react-dom/client';
+// import ReactDOM from 'react-dom/client';
 import Button from '@mui/material/Button';
 
 function Example() {
@@ -13,7 +13,7 @@ function Example() {
                         <div className="card-body">ワイはサンプルコンポーネントちゅうことや</div>
                         <div className="card-body">pages下に移動出来た？？</div>
 
-                        <Button color="success" variant="contained">ワイがHome遷移のボタンやな？？</Button> 
+                        <Button color="success" variant="contained" href={`/`}>ワイがHome遷移のボタンやな？？</Button> 
                     </div>
                 </div>
             </div>
