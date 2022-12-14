@@ -13,7 +13,7 @@ function Example() {
                         <div className="card-body">ワイはサンプルコンポーネントちゅうことや</div>
                         <div className="card-body">pages下に移動出来た？？</div>
 
-                        <Button color="success" variant="contained">ワイがMaterial-UIのボタンやな？？</Button> 
+                        <Button color="success" variant="contained">ワイがHome遷移のボタンやな？？</Button> 
                     </div>
                 </div>
             </div>
@@ -22,11 +22,3 @@ function Example() {
 }
 
 export default Example;
-const Index = ReactDOM.createRoot(document.getElementById("app"));
-
-Index.render(
-    <React.StrictMode>
-        <Example/>
-    </React.StrictMode>
-)
-
