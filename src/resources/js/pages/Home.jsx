@@ -1,9 +1,5 @@
-import React from 'react';
 import ReactDOM from 'react-dom';
-// import { Button, Card } from '@material-ui/core';
-import Button from '@mui/material/Button';
-import Card from '@mui/material/Card';
-
+import { Button, Card } from '@mui/material';
 
 function Home() {
     return (
