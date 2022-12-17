@@ -18,6 +18,10 @@
         "vite": "^3.0.0"
     },
     "dependencies": {
-        "n": "^9.0.1"
+        "@emotion/react": "^11.10.5",
+        "@emotion/styled": "^11.10.5",
+        "@mui/material": "^5.10.17",
+        "n": "^9.0.1",
+        "react-router-dom": "^6.4.5"
     }
 }
